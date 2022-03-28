@@ -3,10 +3,7 @@
 @Date Mar 24, 2022
 @Version 1.0
 */
-
-
 package exercise;
-
 public class InstanceofDemo {
 
 	public static void main(String[] args) {
@@ -26,7 +23,5 @@ public class InstanceofDemo {
 		
 		System.out.println("obj1 instanceof MyInterface: " + (obj2 instanceof MyInterface));
 		
-
 	}
-
 }
